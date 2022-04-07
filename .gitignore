@@ -3,6 +3,8 @@
 *.out
 *.synctex.gz
 *.toc
+*.bbl
+*.blg
 *.ipynb_checkpoints
 *.pyc
 *__pycache__
